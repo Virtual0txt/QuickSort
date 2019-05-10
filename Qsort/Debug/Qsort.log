@@ -1,0 +1,9 @@
+﻿  Qsort.cpp
+c:\users\place\source\repos\qsort\qsort\qsort.cpp(21): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+c:\users\place\source\repos\qsort\qsort\qsort.cpp(50): warning C4244: "=": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\place\source\repos\qsort\qsort\qsort.cpp(53): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  Qsort.vcxproj -> C:\Users\place\source\repos\Qsort\Debug\Qsort.exe
